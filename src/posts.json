@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "description": "Learn the basics of React and understand how components work.",
+    "category": "React",
+    "author": "Meenakshi",
+    "date": "September 1, 2026",
+    "emoji": "⚛️"
+  },
+  {
+    "id": 2,
+    "title": "Getting Started with JavaScript",
+    "description": "Understand the fundamental concepts of JavaScript programming.",
+    "category": "JavaScript",
+    "author": "Meenakshi",
+    "date": "September 3, 2026",
+    "emoji": "💻"
+  },
+  {
+    "id": 3,
+    "title": "Why Learn HTML and CSS?",
+    "description": "Discover how HTML and CSS help create beautiful websites.",
+    "category": "Web Development",
+    "author": "Meenakshi",
+    "date": "September 5, 2026",
+    "emoji": "🌐"
+  },
+  {
+    "id": 4,
+    "title": "Understanding Responsive Design",
+    "description": "Learn how to make websites work on mobile phones and desktops.",
+    "category": "Web Development",
+    "author": "Meenakshi",
+    "date": "September 7, 2026",
+    "emoji": "📱"
+  },
+  {
+    "id": 5,
+    "title": "Useful Tips for Beginners",
+    "description": "Simple tips to improve your programming and problem-solving skills.",
+    "category": "Learning",
+    "author": "Meenakshi",
+    "date": "September 9, 2026",
+    "emoji": "📚"
+  },
+  {
+    "id": 6,
+    "title": "What Is GitHub?",
+    "description": "Learn how GitHub helps developers store and share their projects.",
+    "category": "Technology",
+    "author": "Meenakshi",
+    "date": "September 11, 2026",
+    "emoji": "🚀"
+  },
+  {
+    "id": 7,
+    "title": "Benefits of Learning React",
+    "description": "Explore the advantages of using React for frontend development.",
+    "category": "React",
+    "author": "Meenakshi",
+    "date": "September 13, 2026",
+    "emoji": "⚙️"
+  },
+  {
+    "id": 8,
+    "title": "How to Build Your First Project",
+    "description": "Follow simple steps to create and complete your first web project.",
+    "category": "Learning",
+    "author": "Meenakshi",
+    "date": "September 15, 2026",
+    "emoji": "🎯"
+  }
+]
